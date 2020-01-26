@@ -9,7 +9,8 @@ function contohSplice2(){
     console.log("\n");
 
     console.log("setelah dihapus menggunakan splice");
-    kota.splice(1,2);   //untuk menghapus isi array menggunakan splice, penulisannya nama variable disambung titik masukkan isi yang ingin dihapus berdasar index kemudian koma dan masukkan jumlah yang akan dihapus
+    var kota1 = kota;
+    kota1.splice(1,2);   //untuk menghapus isi array menggunakan splice, penulisannya nama variable disambung titik masukkan isi yang ingin dihapus berdasar index kemudian koma dan masukkan jumlah yang akan dihapus
 
     return kota;
 }
