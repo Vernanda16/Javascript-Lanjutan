@@ -27,3 +27,7 @@ setelah menggunakan shift
 [ 'bogor', 'palembang', 'depok', 'jogja', 'jakarta' ]
 
 */
+
+
+
+//git commit -m "keterangan"
