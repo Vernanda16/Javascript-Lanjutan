@@ -20,3 +20,26 @@ function contoh2(){
 }
 
 contoh2();
+
+
+//output
+/*
+[ 'ini contoh kalimat aku gaes' ]
+[
+  'i', 'n', 'i', ' ', 'c', 'o',
+  'n', 't', 'o', 'h', ' ', 'k',
+  'a', 'l', 'i', 'm', 'a', 't',
+  ' ', 'a', 'k', 'u', ' ', 'g',
+  'a', 'e', 's'
+]
+
+
+[ 'ini contoh klaimat aku gaes' ]
+[
+  'i', 'n', 'i', ' ', 'c', 'o',
+  'n', 't', 'o', 'h', ' ', 'k',
+  'l', 'a', 'i', 'm', 'a', 't',
+  ' ', 'a', 'k', 'u', ' ', 'g',
+  'a', 'e', 's'
+]
+*/

@@ -18,3 +18,15 @@ function pangkat(){
 }
 
 pangkat();
+
+//output
+/*
+----Contoh Pertama----
+1
+125
+NaN
+
+
+----Contoh Kedua----
+125
+*/

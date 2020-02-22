@@ -13,3 +13,9 @@ function ubah(){
 }
 
 ubah();
+
+//output
+/*
+ini adalah contoh kalimat untuk tolowercase()
+INI ADALAH CONOTH KALIMAT UNTUK TOUPPERCASE()
+*/

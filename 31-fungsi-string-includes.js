@@ -11,3 +11,9 @@ function strIncludes(){
 }
 
 strIncludes();
+
+//output
+/*
+true
+true
+*/

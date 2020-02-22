@@ -12,3 +12,18 @@ function contoh(){
     return gabungkan;
 }
 console.log(contoh());
+
+
+//output
+/*
+[
+  'palembang',
+  'prabumlih',
+  'lubuk linggau',
+  'baturaja',
+  'muara enim',
+  'musi rawas',
+  'muaratara',
+  'lambar'
+]
+*/

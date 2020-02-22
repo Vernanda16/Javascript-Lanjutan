@@ -16,3 +16,19 @@ function contohPush(){
 }
 
 console.log(contohPush());
+
+
+//output
+
+/*
+
+sebelum menggunakan push
+[
+  1, 2, 3, 4,
+  5, 6, 7
+]
+
+setelah menggunakan push
+[ 1, 2, 3, 4, 5, 6, 7, 'bogor', 8, 9 ]
+
+*/

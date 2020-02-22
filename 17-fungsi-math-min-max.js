@@ -21,3 +21,11 @@ function MinMax(){
 }
 
 MinMax();
+
+//output
+/*
+Ini contoh penggunaan min() : 1
+
+
+Ini conoth penggunaan max() : 221
+*/

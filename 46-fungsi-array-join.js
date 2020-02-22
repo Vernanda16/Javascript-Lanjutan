@@ -15,3 +15,10 @@ function contoh(){
 }
 
 contoh();
+
+//output
+/*
+sebelum menggunakan join [ 'palembang', 'medan', 'jakarta', 'bandung', 'pagar alam' ]
+setelah menggunakan join :  palembang,medan,jakarta,bandung,pagar alam
+setelah menggunakan join : palembang|medan|jakarta|bandung|pagar alam
+*/

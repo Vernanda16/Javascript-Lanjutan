@@ -10,7 +10,7 @@ aplikasi ilmiah atau aplikasi kalkulator dengan JavaScript.
 
 
 // Berikut adalah method yang disediakan oleh objek Math JavaScript, diurutkan berdasarkan abjad
-
+/*
 console.log(Math.abs())
 console.log(Math.acos())
 console.log(Math.asin())
@@ -29,9 +29,14 @@ console.log(Math.round())
 console.log(Math.sin())
 console.log(Math.sqrt())
 console.log(Math.tan())
-
+*/
 
 //contoh penggunaan method objek Math.max()
 
 console.log("contoh penggunaan Math.max() =", Math.max(9,3,6,4,2,10,30));  //method objek Math.max() berguna untuk mencari nilai terbesar
 
+
+//output
+/*
+contoh penggunaan Math.max() = 30
+*/

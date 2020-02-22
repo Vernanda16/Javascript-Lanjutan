@@ -1,4 +1,4 @@
-//fungsi some()
+//fungsi array some()
 //akan mereturn nilai true jika salah satu saja data memiliki kriteria tersebut
 /*
 Method every() dan some() memiliki fungsi yang mirip. Keduanya sama-sama bertugas untuk menentukan apakah 
@@ -23,3 +23,6 @@ function contoh(){
 };
 
 contoh();
+
+
+//output true

@@ -13,3 +13,9 @@ function contoh(){
     console.log("setelah di replace : ", kalimat.replace("orang", "programmer"));  //ini artinya kita mengubah kata orang menjai programmer
 }
 contoh();
+
+//output
+/*
+sebelum di replace :  saya ingin jadi orang sukses aamiin
+setelah di replace :  saya ingin jadi programmer sukses aami
+*/

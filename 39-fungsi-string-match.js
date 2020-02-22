@@ -12,3 +12,19 @@ function contoh(){
 }
 
 contoh();
+
+//output
+/*
+[
+  'programmer',
+  index: 19,
+  input: 'saya ingin menjadi programmer aamiin ya Allah',
+  groups: undefined
+]
+[
+  'ya Allah',
+  index: 37,
+  input: 'saya ingin menjadi programmer aamiin ya Allah',
+  groups: undefined
+]
+*/

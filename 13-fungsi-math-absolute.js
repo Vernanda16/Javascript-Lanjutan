@@ -16,3 +16,15 @@ var y = 40;
 
 console.log("sebelum menggunkan fungsi Math.abs() :", x-y);
 console.log("Setelah menggunakan fungsi Math.abs() :", Math.abs(x-y));
+
+
+//output
+/*
+----Contoh Pertama----
+5
+5
+22.78
+----Contoh Ke dua----
+sebelum menggunkan fungsi Math.abs() : -10
+Setelah menggunakan fungsi Math.abs() : 10
+*/

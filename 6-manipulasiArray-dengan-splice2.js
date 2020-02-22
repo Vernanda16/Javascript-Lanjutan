@@ -16,3 +16,13 @@ function contohSplice2(){
 }
 
 console.log(contohSplice2());
+
+//output
+/*
+sebelum menggunakan splice
+[ 'palembang', 'jambi', 'pagar alam', 'lampung', 'bogor' ]
+
+
+setelah dihapus menggunakan splice
+[ 'palembang', 'lampung', 'bogor' ]
+*/

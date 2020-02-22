@@ -23,3 +23,22 @@ function contohSplice(){
 }
 
 console.log(contohSplice());
+
+
+//output
+/*
+sebelum menggunakan splice
+[ 'jakarta', 'depok', 'bogor', 'jogja', 'bandung' ]
+
+
+setelah menggunakan splice
+[
+  'jakarta',
+  'depok',
+  'bogor',
+  'palembang',
+  'jambi',
+  'jogja',
+  'bandung'
+]
+*/

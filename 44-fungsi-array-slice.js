@@ -17,3 +17,9 @@ function contoh(){
     console.log(slice2);
 }
 contoh();
+
+//output
+/*
+[ '3', '4' ]
+[ '3', '4', '5', '6' ]
+*/

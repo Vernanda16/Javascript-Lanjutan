@@ -17,3 +17,21 @@ function contohUnshift(){
 }
 
 console.log(contohUnshift());
+
+//output
+/*
+sebelum menggunakan unshift
+[ 'bogor', 'jogjakarta', 'depok', 'tebet', 'bandung' ]
+
+
+setelah menambah isi array menggunakan unshift
+[
+  'papua',
+  'prabumulih',
+  'bogor',
+  'jogjakarta',
+  'depok',
+  'tebet',
+  'bandung'
+]
+*/

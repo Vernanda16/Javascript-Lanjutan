@@ -13,3 +13,10 @@ function contoh(){
 }
 
 contoh();
+
+
+//output
+/*
+sebelum di reverse :  [ 'palembang', 'bandun', 'jogjakarta', 'jakarta', 'depok', 'bogor' ]
+setelah di reverse : [ 'bogor', 'depok', 'jakarta', 'jogjakarta', 'bandun', 'palembang' ]
+*/

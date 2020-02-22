@@ -1,5 +1,10 @@
 //fungsi array filter 
-//digunkan untuk filtering terhadap sebuah data fungsi ini melakukan return
+/*
+Method filter, digunakan untuk membantu kita melakukan filtering terhadap sebuah data. Untuk cara 
+kerja dari method filter() ini sebenarnya mirip dengan map(). Kedua fungsi ini sama-sama melakukan return, 
+bedanya adalah method filter() akan mereturn nilai boolean dalam setiap iterasinya. Setiap return yang 
+bernilai true akan direturn pada result array.
+*/
 
 var orang = [
     {
@@ -21,3 +26,9 @@ let kelamin = orang.filter(orang => {
 });
 
 console.log(kelamin);
+
+
+//output
+/*
+[ { nama: 'upie', jk: 'perempuan' } ]
+*/

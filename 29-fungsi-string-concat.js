@@ -23,3 +23,10 @@ function operatorPlus(){
     console.log(kalimat + kalimat2);
 }
 operatorPlus();
+
+//output
+/*
+saya ingin
+saya ingin menjadi programmer hebat
+aku kamu
+*/

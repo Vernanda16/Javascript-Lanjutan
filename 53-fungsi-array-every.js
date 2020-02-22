@@ -1,4 +1,4 @@
-//fungsi every 
+//fungsi array every 
 //fungsinya untuk menentukan apakah sebuah data dalam sebuah array memenuhi kriteria tertentu
 //fungsi ini akan mereturn nilai true jika semua datanya sesuai kriteria
 /*
@@ -21,3 +21,5 @@ function contoh(){
 }
 
 contoh();
+
+//output  false

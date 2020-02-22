@@ -12,3 +12,6 @@ function contoh(){
 }
 
 contoh();
+
+
+//output 4

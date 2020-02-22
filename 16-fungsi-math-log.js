@@ -13,3 +13,11 @@ function logaritma(){
 }
 
 logaritma();
+
+//output
+/*
+0
+1.791759469228055
+8
+2
+*/

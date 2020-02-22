@@ -16,3 +16,9 @@ function slice(){
 }
 
 slice();
+
+//output
+/*
+ontoh kalimat saja gaes
+ kalimat saja gaes
+ */

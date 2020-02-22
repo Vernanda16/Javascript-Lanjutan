@@ -9,3 +9,9 @@ function contoh(){
 }
 
 contoh();
+
+//output
+/*
+true
+true
+*/

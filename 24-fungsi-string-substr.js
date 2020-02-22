@@ -19,3 +19,9 @@ function substring(){
 
 substring();
 
+//output
+/*
+09
+019
+09-2019
+*/

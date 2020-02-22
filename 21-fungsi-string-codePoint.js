@@ -10,3 +10,9 @@ function kodePoint(){
 }
 
 kodePoint();
+
+//output
+/*
+A
+☵
+*/

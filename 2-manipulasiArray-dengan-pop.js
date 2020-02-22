@@ -17,3 +17,15 @@ function contohPop(){
 
 console.log(contohPop());
 
+
+//output
+/*
+
+sebelum menggunakan pop
+[ 'jakarta', 'depok', 'jogja', 'bandung', 'bogor' ]
+
+
+setelah menggunakan pop
+[ 'jakarta', 'depok', 'jogja', 'bandung' ]
+
+*/

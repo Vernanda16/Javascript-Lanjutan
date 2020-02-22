@@ -19,3 +19,14 @@ function akar(){
 }
 
 akar();
+
+//output
+/*
+----Contoh Pertama----
+5
+9
+NaN
+
+----Contoh kedua----
+9
+*/

@@ -9,3 +9,9 @@ function cthRepeat(){
 
 
 cthRepeat();
+
+//output
+/*
+bismillah bismillah bismillah bismillah bismillah 
+semoga sukses -semoga sukses -semoga sukses -semoga sukses -
+*/

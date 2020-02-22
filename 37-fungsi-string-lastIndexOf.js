@@ -7,3 +7,6 @@ function contoh(){
 }
 
 contoh();
+
+
+//output 38

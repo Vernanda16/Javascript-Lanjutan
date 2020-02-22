@@ -13,3 +13,9 @@ function contoh(){
     console.log("mencari index hari jum'at pada array :", hariIndex);  //artinya kita mencari hari jum'at terletak di index keberapa
 }
 contoh();
+
+//output
+/*
+sebelum menggunakan indexOf : [ 'senin', 'selasa', 'rabu', 'kamis', "jum'at", 'sabtu' ]
+mencari index hari jum'at pada array : 4
+*/

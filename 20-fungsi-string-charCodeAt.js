@@ -12,3 +12,5 @@ function kodeAt(){
 }
 
 kodeAt();
+
+//output  99

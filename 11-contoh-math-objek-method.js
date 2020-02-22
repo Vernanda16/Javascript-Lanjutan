@@ -34,3 +34,23 @@ console.log(Math.round(1.56));  // hasilnya: 2
 console.log(Math.round(1.44));  // hasilnya: 1
 console.log(Math.round(1.0));   // hasilnya: 1
 console.log( Math.round(-1.6)); // hasilnya: -2
+
+
+//output
+/*
+Contoh Penggunaan Math.ceil()
+2
+2
+1
+-1
+Contoh Penggunaan Math.floor()
+1
+1
+1
+-2
+Contoh penggunaan Math.round()
+2
+1
+1
+-2
+*/

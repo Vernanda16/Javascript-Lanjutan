@@ -14,3 +14,9 @@ function contoh(){
 }
 
 contoh();
+
+//output
+/*
+19
+19
+*/

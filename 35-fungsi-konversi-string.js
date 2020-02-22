@@ -17,6 +17,15 @@ function konversi(){
 }
 konversi();
 
+//output
+/*
+object
+[String: 'ini contoh saja']
+string
+ini contoh saja
+*/
+
+
 
 console.log("\n");
 
@@ -33,3 +42,11 @@ function contoh2(){
     console.log(konvert);
 }
 contoh2();
+
+//output
+/*
+object
+[String: 'ini contoh penggunaan valueOf()']
+string
+ini contoh penggunaan valueOf()
+*/

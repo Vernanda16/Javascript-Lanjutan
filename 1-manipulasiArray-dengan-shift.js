@@ -15,3 +15,15 @@ function contohShift(){
 }
 
 console.log(contohShift());
+
+
+//output
+/*
+
+sebelum menggunakan shift
+[ 'bandung', 'bogor', 'palembang', 'depok', 'jogja', 'jakarta' ]
+===========
+setelah menggunakan shift
+[ 'bogor', 'palembang', 'depok', 'jogja', 'jakarta' ]
+
+*/

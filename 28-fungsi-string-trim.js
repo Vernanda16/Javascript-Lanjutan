@@ -10,3 +10,9 @@ function cthTrim(){
 }
 
 cthTrim();
+
+//output
+/*
+Sebelum menggunakan trim()      ini contoh kalimat    
+setelah menggunakan trim() ini contoh kalimat
+*/

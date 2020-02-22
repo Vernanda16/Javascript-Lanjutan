@@ -21,3 +21,19 @@ console.log("\n");
 var jari2 = 7;
 var luas_lingkaran = Math.PI * jari2 * jari2;   //Math.PI digunakan untuk mengambil nilai PI
 console.log("Luas Lingkaran adalah =", luas_lingkaran);
+
+
+//output
+/*
+2.718281828459045
+2.302585092994046
+0.6931471805599453
+0.4342944819032518
+1.4426950408889634
+3.141592653589793
+0.7071067811865476
+1.4142135623730951
+
+
+Luas Lingkaran adalah = 153.93804002589985
+*/

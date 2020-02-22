@@ -10,3 +10,14 @@ function contoh(){
 
 }
 contoh();
+
+//output
+/*
+sebelum menggunakan split : saya ingin jadi sukses agar bisa bahagiakan ortu
+setelah menggunakan split : [
+  'saya',       'ingin',
+  'jadi',       'sukses',
+  'agar',       'bisa',
+  'bahagiakan', 'ortu'
+]
+*/
